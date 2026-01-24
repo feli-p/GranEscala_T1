@@ -1,0 +1,19 @@
+[project]
+name = "granescala"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyterlab>=4.5.2",
+    "numpy>=2.4.1",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.8.0",
+]
+
+[dependency-groups]
+dev = [
+    "jupyter>=1.1.1",
+    "kaggle>=1.8.3",
+    "sweetviz>=2.3.1",
+]
