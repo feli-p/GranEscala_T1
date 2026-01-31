@@ -9,3 +9,4 @@ wheels/
 .ipynb_checkpints/
 # Virtual environments
 .venv
+data/
