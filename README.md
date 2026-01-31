@@ -1,31 +1,31 @@
 \# Estructura del repositorio
 
-├───artifacts\n
-│   ├───model.joblib\n
-│   ├───Resúmen ejecutivo.docx\n
-│   └───Resúmen ejecutivo.pdf\n
-├───data\n
-│   ├───inference\n
-│   │   ├───test.pkl\n
-│   │   └───xtest.pkl\n
-│   ├───predictions\n
-│   │   └───submission.csv\n
-│   ├───prep\n
-│   │   ├───base.pkl\n
-│   │   └───monthly.pkl\n
-│   └───raw\n
-│       ├───item\_categories.csv\n
-│       ├───item.csv\n
-│       ├───sales\_train.csv\n
-│       ├───sample\_submission.csv\n
-│       ├───shop.csv\n
-│       └───test.csv\n
-├───notebooks\n
-│   ├───EDA.ipynb\n
-│   └───Model.ipynb\n
-└───src\n
-&nbsp;   ├───\_\_init\_\_.py\n
-&nbsp;   ├───inference.py\n
-&nbsp;   ├───prep.py\n
+├───artifacts<br>
+│   ├───model.joblib<br>
+│   ├───Resúmen ejecutivo.docx<br>
+│   └───Resúmen ejecutivo.pdf<br>
+├───data<br>
+│   ├───inference<br>
+│   │   ├───test.pkl<br>
+│   │   └───xtest.pkl<br>
+│   ├───predictions<br>
+│   │   └───submission.csv<br>
+│   ├───prep<br>
+│   │   ├───base.pkl<br>
+│   │   └───monthly.pkl<br>
+│   └───raw<br>
+│       ├───item\_categories.csv<br>
+│       ├───item.csv<br>
+│       ├───sales\_train.csv<br>
+│       ├───sample\_submission.csv<br>
+│       ├───shop.csv<br>
+│       └───test.csv<br>
+├───notebooks<br>
+│   ├───EDA.ipynb<br>
+│   └───Model.ipynb<br>
+└───src<br>
+&nbsp;   ├───\_\_init\_\_.py<br>
+&nbsp;   ├───inference.py<br>
+&nbsp;   ├───prep.py<br>
 &nbsp;   └───train.py
 
